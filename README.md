@@ -9,7 +9,14 @@ If you want your favorite software added here, please create a ticket or open a 
 
 ## Collections
 
+* [Pianobbok](https://www.pianobook.co.uk) - 900+ instruments for Kontakt player or DecentSampler
+
 * [Spitfire Labs](https://labs.spitfireaudio.com/) - a collection of free software instruments
+
+
+## Sampler
+
+* [Decent Sampler Plugin](https://www.decentsamples.com/product/decent-sampler-plugin/) - play samples in the decent sampler format
 
 
 ## Synthesizer
