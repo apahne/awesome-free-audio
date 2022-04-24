@@ -27,10 +27,12 @@ If you want your favorite software added here, please create a ticket or open a 
 
 # Effects
 
-## Delay
+## Delay, Reverb & Echo
 
-* [Valhalla FreqEcho](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) - "Not necessarily stoned, but beautiful".
+* [Valhalla FreqEcho](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) - a "not necessarily stoned, but beautiful" delay effect plugin
 
+
+* [Valhalla Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) - a delay and reverb plugin
 
 
 ## Misc Effects
