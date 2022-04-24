@@ -6,6 +6,11 @@ If you want your favorite software added here, please create a ticket or open a 
 
 
 
+# Delay
+
+* [Valhalla FreqEcho](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) - "Not necessarily stoned, but beautiful".
+
+
 # Synthesizer
 
-* [Vital](https://vital.audio) - free "Spectral warping wavetable synth" for Windows, Mac and Linux; GPLv3 license and [source code](https://github.com/mtytel/vital) available on GitHub
+* [Vital](https://vital.audio) - "spectral warping wavetable synth" for Windows, Mac and Linux; GPLv3 license and [source code](https://github.com/mtytel/vital) available on GitHub
