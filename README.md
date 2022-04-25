@@ -9,9 +9,11 @@ If you want your favorite software added here, please create a ticket or open a 
 
 ## Collections
 
-* [Pianobbook](https://www.pianobook.co.uk) - 900+ instruments for Kontakt player or DecentSampler
+* [Heavyocity Foundations](https://heavyocity.com/product-category/foundations/) - two free Kontakt Player instruments (Piano, Staccato Strings)
 
 * [Orchestral Tools SINEFactory](https://www.orchestraltools.com/sinefactory) - free subscription service that offers 8 (as of now) instruments
+
+* [Pianobbook](https://www.pianobook.co.uk) - 900+ instruments for Kontakt player or DecentSampler
 
 * [Spitfire Labs](https://labs.spitfireaudio.com/) - a collection of free software instruments
 
