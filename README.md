@@ -13,6 +13,8 @@ If you want your favorite software added here, please create a ticket or open a 
 
 * [Orchestral Tools SINEFactory](https://www.orchestraltools.com/sinefactory) - free subscription service that offers 8 (as of now) instruments
 
+* [Komplete Start](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/) - Native Instruments free production suite with 18 instruments and effects included
+
 * [Pianobbook](https://www.pianobook.co.uk) - 900+ instruments for Kontakt player or DecentSampler
 
 * [Spitfire Labs](https://labs.spitfireaudio.com/) - a collection of free software instruments
