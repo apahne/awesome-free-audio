@@ -58,10 +58,16 @@ If you want your favorite software added here, please create a ticket or open a 
 * [Valhalla Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) - a delay and reverb plugin
 
 
+
 ## Misc Effects
 
 * [Kilohearts Toolbox Free](https://kilohearts.com/products/kilohearts_toolbox#free) - contains Snap Heap the modular effects host and 6 snapin effects (3-band EQ, Chorus, Delay, Gain, Limiter and Stereo)
 
+
+
+# M4L Devices
+
+* [Duck Buddy](https://maxforlive.com/library/device.php?id=7623) - This fantastic M4L device triggers a custom gain reduction shape when it detects a MIDI note from the selected source
 
 
 
