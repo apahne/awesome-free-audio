@@ -11,6 +11,8 @@ If you want your favorite software added here, please create a ticket or open a 
 
 * [Pianobbook](https://www.pianobook.co.uk) - 900+ instruments for Kontakt player or DecentSampler
 
+* [Orchestral Tools SINEFactory](https://www.orchestraltools.com/sinefactory) - free subscription service that offers 8 (as of now) instruments
+
 * [Spitfire Labs](https://labs.spitfireaudio.com/) - a collection of free software instruments
 
 
