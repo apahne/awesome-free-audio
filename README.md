@@ -24,6 +24,8 @@ If you want your favorite software added here, please create a ticket or open a 
 
 * [Decent Sampler Plugin](https://www.decentsamples.com/product/decent-sampler-plugin/) - play samples in the decent sampler format
 
+* [Kontakt Player](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6-player/) - Native Instrumens free player for Kontakt instruments
+
 
 ## Synthesizer
 
