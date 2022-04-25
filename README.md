@@ -20,6 +20,13 @@ If you want your favorite software added here, please create a ticket or open a 
 * [Spitfire Labs](https://labs.spitfireaudio.com/) - a collection of free software instruments
 
 
+
+## Flutes
+
+* [Fujara Flute](https://www.vsl.co.at/en/Free_Instruments/Fujara_Flute) - Vienna Symphonic Library's free overtone flute; iLok account required
+
+
+
 ## Sampler
 
 * [Decent Sampler Plugin](https://www.decentsamples.com/product/decent-sampler-plugin/) - play samples in the decent sampler format
