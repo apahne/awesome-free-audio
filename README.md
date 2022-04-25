@@ -27,6 +27,14 @@ If you want your favorite software added here, please create a ticket or open a 
 
 
 
+
+## Piano
+
+* [Bösendorfer Imperial Grand Piano](https://www.vsl.co.at/en/Free_Instruments/Soft_Imperial) - Vienna Symphonic Library's clear and transparent Grand piano; iLok account required
+
+
+
+
 ## Sampler
 
 * [Decent Sampler Plugin](https://www.decentsamples.com/product/decent-sampler-plugin/) - play samples in the decent sampler format
