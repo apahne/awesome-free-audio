@@ -59,6 +59,12 @@ If you want your favorite software added here, please create a ticket or open a 
 
 
 
+## EQ
+
+* [TDR Nova](https://www.tokyodawn.net/tdr-nova/#) - Tokyo Dawn's 4-band dynamic EQ
+
+
+
 ## Misc Effects
 
 * [Kilohearts Toolbox Free](https://kilohearts.com/products/kilohearts_toolbox#free) - contains Snap Heap the modular effects host and 6 snapin effects (3-band EQ, Chorus, Delay, Gain, Limiter and Stereo)
