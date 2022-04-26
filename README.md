@@ -1,6 +1,6 @@
 # Awesome Free Audio
 
-A collection of free audio software. Free as in "free beer" and/or free software.
+A collection of free audio stuff. Free as in "free beer" and/or free software.
 
 If you want your favorite software added here, please create a ticket or open a pull request.
 
@@ -74,6 +74,12 @@ If you want your favorite software added here, please create a ticket or open a 
 # M4L Devices
 
 * [Duck Buddy](https://maxforlive.com/library/device.php?id=7623) - This fantastic M4L device triggers a custom gain reduction shape when it detects a MIDI note from the selected source
+
+
+
+# Samples
+
+* [musicradar.com SampleRadar](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download) - 75,000+ royaltie free samples
 
 
 
