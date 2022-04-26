@@ -79,7 +79,7 @@ If you want your favorite software added here, please create a ticket or open a 
 
 # Samples
 
-* [musicradar.com SampleRadar](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download) - 75,000+ royaltie free samples
+* [musicradar.com SampleRadar](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download) - 75,000+ royalty-free samples
 
 
 
