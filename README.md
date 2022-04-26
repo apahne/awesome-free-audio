@@ -69,6 +69,8 @@ If you want your favorite software added here, please create a ticket or open a 
 
 * [Kilohearts Toolbox Free](https://kilohearts.com/products/kilohearts_toolbox#free) - contains Snap Heap the modular effects host and 6 snapin effects (3-band EQ, Chorus, Delay, Gain, Limiter and Stereo)
 
+* [MFreeFXBundle](https://www.meldaproduction.com/MFreeFXBundle) - MeldaProductions free bundle of 37 various effects
+
 
 
 # M4L Devices
