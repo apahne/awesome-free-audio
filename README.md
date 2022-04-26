@@ -81,3 +81,5 @@ If you want your favorite software added here, please create a ticket or open a 
 
 [Max for Live - Cream of the Crop: Free Devices by LFObbq](https://docs.google.com/document/d/e/2PACX-1vRngItA2PEDOI3yKraeBt_kh1DLwNDeAvOL2SslmXdDBdZupjcizvszVlGvaXJcgvWMpQh4NF_boY15/pub) - tremendous list of free M4L devices; a bit outdated but full of goodies
 
+* [More Awesome Music DSP](https://github.com/olilarkin/awesome-musicdsp) - another awesome list on GitHub curated by Oli Larkin
+
