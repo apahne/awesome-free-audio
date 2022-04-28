@@ -73,6 +73,12 @@ If you want your favorite software added here, please create a ticket or open a 
 
 
 
+## Stereo Effects
+
+ * [XPander](https://webshop.oz-soft.com/en/content/25-xpander) - OzSoft's stereo widener
+
+
+
 # M4L Devices
 
 * [Duck Buddy](https://maxforlive.com/library/device.php?id=7623) - This fantastic M4L device triggers a custom gain reduction shape when it detects a MIDI note from the selected source
