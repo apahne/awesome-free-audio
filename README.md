@@ -64,6 +64,12 @@ If you want your favorite software added here, please create a ticket or open a 
 
 
 
+## Distorsion
+
+* [Fire](https://github.com/jerryuhoo/Fire) - multiband distorsion
+
+
+
 ## EQ
 
 * [TDR Nova](https://www.tokyodawn.net/tdr-nova/#) - Tokyo Dawn's 4-band dynamic EQ
