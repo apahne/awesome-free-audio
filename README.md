@@ -42,7 +42,9 @@ If you want your favorite software added here, please create a ticket or open a 
 * [Kontakt Player](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-6-player/) - Native Instrumens free player for Kontakt instruments
 
 
-## Synthesizer
+## Synth
+
+* [Surge XT](https://surge-synthesizer.github.io) - next generation full featured synth
 
 * [Vital](https://vital.audio) - "spectral warping wavetable synth" for Windows, Mac and Linux; GPLv3 license and [source code](https://github.com/mtytel/vital) available on GitHub
 
@@ -51,6 +53,9 @@ If you want your favorite software added here, please create a ticket or open a 
 # Effects
 
 ## Delay, Reverb & Echo
+
+* [Integraudio Deelay](https://integraudio.com/deelay-review/) - full featured free delay VST
+
 
 * [Valhalla FreqEcho](https://valhalladsp.com/shop/delay/valhalla-freq-echo/) - a "not necessarily stoned, but beautiful" delay effect plugin
 
