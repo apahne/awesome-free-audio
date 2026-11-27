@@ -46,6 +46,8 @@ If you want your favorite software added here, please create a ticket or open a 
 
 * [Surge XT](https://surge-synthesizer.github.io) - next generation full featured synth
 
+* [Tone Forge](https://hannes-software.com/tone-forge/) - offline virtual modular synthesizer with explicit oscillator, filter, envelope, and stereo effects graph for Windows and Linux (free Community Edition)
+
 * [Vital](https://vital.audio) - "spectral warping wavetable synth" for Windows, Mac and Linux; GPLv3 license and [source code](https://github.com/mtytel/vital) available on GitHub
 
 
@@ -81,6 +83,8 @@ If you want your favorite software added here, please create a ticket or open a 
 * [Kilohearts Toolbox Free](https://kilohearts.com/products/kilohearts_toolbox#free) - contains Snap Heap the modular effects host and 6 snapin effects (3-band EQ, Chorus, Delay, Gain, Limiter and Stereo)
 
 * [MFreeFXBundle](https://www.meldaproduction.com/MFreeFXBundle) - MeldaProduction's free bundle of 37 various effects
+
+* [Thump Forge](https://hannes-software.com/thump-forge/) - offline electric bass amp simulator, 12-module effects rack, 5-string tuner, and Windows VST3 plugin (free Community Edition)
 
 
 
